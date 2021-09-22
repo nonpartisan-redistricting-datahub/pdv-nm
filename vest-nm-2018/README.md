@@ -22,6 +22,9 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
   - Date accessed: 8/3/2021
   - Link: https://electionresults.sos.state.nm.us/default.aspx?eid=2698
   - Note: Selected 'EXPORT' and downloaded 'Precinct' data for each election
+- File: NM Precinct Shapefiles
+  - Date accessed: 09/17/2021
+  - Link: https://www.nmlegis.gov/Redistricting/
 - File: 2020 Redistricting Data Program Final Release (NM Partnership Shapefile)
   - Date accessed: 8/3/2021
   - Link: https://www.census.gov/geo/partnerships/pvs/partnership19v2/st35_nm.html
