@@ -11,7 +11,7 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 ### Accessible files:
 
 - File: NM VEST 2018 File
-   - Date accessed: 8/3/2021
+   - Date accessed: 08/17/2021
    - Link: https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/UBKYRU/CW9QXO&version=45.0
    - File: `nm_2018.zip`
 - File: VEST Documentation File, 2018
