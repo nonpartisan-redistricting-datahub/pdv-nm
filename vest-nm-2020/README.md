@@ -20,7 +20,7 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
   - Date accessed: 12/01/2021
   - Link: https://electionresults.sos.state.nm.us/Default.aspx?
   - Note: Selected 'EXPORT' and downloaded 'Precinct Level' data for each election
-- File: NM Precinct-Level Election Results, 2020
+- File: NM County-Level Election Results, 2020
   - Date accessed: 12/01/2021
   - Link: https://electionresults.sos.state.nm.us/Default.aspx?
   - Note: Selected 'EXPORT' and downloaded 'County Level' data for each election
