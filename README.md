@@ -6,6 +6,12 @@ We do not have most of the raw data sources available on this Github due to file
 
 Please reach out to info@redistrictingdatahub.org to reach our support team if you have any questions.
 
+## vest-nm-2020
+
+RDH's partner data validation for VEST's 2020 NM file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?fileId=5425599&version=27.0).
+
+RDH's election result validation report is available [here](https://redistrictingdatahub.org/dataset/vest-2020-new-mexico-precinct-and-election-results/). To request a full validation report, please email info@redistrictingdatahub.org.
+
 ## vest-nm-2018
 
 RDH's partner data validation for VEST's 2018 NM file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/UBKYRU/CW9QXO&version=45.0).
